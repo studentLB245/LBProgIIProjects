@@ -5,7 +5,6 @@ public class Student {
     private int age;
 
     public Student() {
-        // Default constructor with no arguments
     }
 
     public Student(String name, String stu_id, double GPA, int age) {
